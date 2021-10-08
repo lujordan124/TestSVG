@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>91EC9F83-7B78-4BDB-ABD0-53FA3231AEB8</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="88" height="88"></rect>
+    </defs>
+    <g id="Additional-CX-Asks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8-Copy-41" transform="translate(-290.000000, -144.000000)">
+            <g id="pause_88px" transform="translate(290.000000, 144.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="pause_88px-(Background/Mask)"></g>
+                <g id="pause" mask="url(#mask-2)" fill="#FFFFFF">
+                    <g transform="translate(26.000000, 17.000000)">
+                        <path d="M0,0 L12,0 L12,54 L0,54 L0,0 Z" id="Rectangle-43"></path>
+                        <path d="M23,0 L35,0 L35,54 L23,54 L23,0 Z" id="Rectangle-44"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
